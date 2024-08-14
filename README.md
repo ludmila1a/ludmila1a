@@ -14,4 +14,3 @@ Meu nome é _Ludmila_ ✨
   @mila_ssrr
 
 ![](https://github.com/user-attachments/assets/13141eea-9b0a-4b30-b6ff-857265863cbc)
-
