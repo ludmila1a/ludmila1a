@@ -1,10 +1,12 @@
-## Boas vindas ao meu perfil👋
+### Boas vindas ao meu perfil💙
+
+Meu nome é _Ludmila_ ✨
+
+- Estou me desenvolvendo na linguagem Javascript
+- utilizo esse espaço para mim organização e compartilhamento dos meus projetos desenvolvidos.
 
 
-**ludmila1a/ludmila1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### você entra em contato comigo 📫
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+  00001126623076sp@al.educacao.sp.gov.br
+  @mila_ssrr
